@@ -1,10 +1,10 @@
 <h1 align="center">
 </h1>
 
-<p align="center">TeknoAnka is a technology company that develops fast, secure, and modern operating systems.
+<p align="center">BlueAnka is a technology company that develops fast, secure, and modern operating systems.
 Our goal is to future-proof the user experience and provide innovative solutions.</p>
 
 <p align="center">
-  <a href="https://github.com/TeknoAnka/LupuS"><img src="https://i.imgur.com/xTJBxv0.png" width="192px"></a>
+  <a href="https://github.com/BlueAnka/LupuS"><img src="https://i.imgur.com/xTJBxv0.png" width="192px"></a>
 </p>
 <h1></h1>
