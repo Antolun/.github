@@ -1,7 +1,7 @@
 <h1 align="center">
 </h1>
 
-<p align="center">BlueAnka is a technology company that develops fast, secure, and modern operating systems.
+<p align="center">Antolun is a technology company that develops fast, secure, and modern operating systems.
 Our goal is to future-proof the user experience and provide innovative solutions.</p>
 
 <p align="center">
